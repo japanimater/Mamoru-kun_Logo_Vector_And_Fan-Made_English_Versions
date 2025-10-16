@@ -1,5 +1,6 @@
 # Mamoru-kun_Logo_Vector_And_Fan-Made_English_Versions 
 The image files contained within this repository are vector images I made of all logos from Mamoru-kun(from CyberConnect2). 
+
 Following the devastation of the 2011/03/11 earthquake in Japan, CyberConnect2's character Mamoru-kun was nominated as a mascot character to represent the donation charity event project for the victims. 
 Mamoru-kun is also used to teach how to prepare and respond to disasters, both natural and man-made. 
 Mamoru-kun is part of the larger Little Tail Bronx world/lore. 
